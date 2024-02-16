@@ -1,3 +1,5 @@
+[![Go](https://github.com/rthier/study-newhttprouting/actions/workflows/go.yml/badge.svg)](https://github.com/rthier/study-newhttprouting/actions/workflows/go.yml)
+
 > ### Enhanced routing patterns
 > HTTP routing in the standard library is now more expressive. The patterns used by net/http.ServeMux have been enhanced to accept methods and wildcards.
 > 
